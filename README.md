@@ -17,6 +17,7 @@
 
 </h5>
 <p/>
+<br>
 
  - 🔭 I’m currently working on something cool :bulb: 
  - 🌱 learning New Techs & Recreating :construction:  
@@ -54,6 +55,8 @@
 
 <br/>
 <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SandupaAbeywardana&theme=juicyfresh&no-frame=true&row=1)](https://github.com/SandupaAbeywardana/github-profile-trophy)
 
 <!--
 ![Git Hub Contribution](https://user-images.githubusercontent.com/34527100/94196273-bebe8b80-fed1-11ea-9b26-7672c725a6fd.jpg)
