@@ -1,4 +1,4 @@
-<h2 align="center"> Sandupa Abeywardana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="auto">  
+<h2 align="center"> Sandupa Abeywardana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 
 <p></p>
 
