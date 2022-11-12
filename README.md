@@ -7,14 +7,14 @@
 </h2>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
-<h5 align="center">
-  <code><a href="https://www.facebook.com/SandupaAbeywardana" title="Facebook Profile"><img width="22"                                                                             src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/facebook.png">Facebook</a></code>
-  <code><a href="https://www.instagram.com/sanx__98/" title="Instagram Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.linkedin.com/in/isumsandupa/" title="LinkedIn Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/abeywardanatm" title="Twitter Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/twitter.png"> Twitter</a></code>
-  <code><a href="mailto:sandupa.isum@gmail.com; sandupa.isum@outlook.com" title="Send Email"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/gmail.png"> Gmail</a></code>
-</h5>
-<p/>
+</p>
+
+[![Twitter](https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/abeywardanatm)](https://twitter.com/abeywardanatm)
+[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/sanx98)](http://instagram.com/sanx98)
+[![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/SandupaAbeywardana/)](https://facebook.com/SandupaAbeywardana/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/isumsandupa)](https://linkedin.com/in/isumsandupa)
+[![Gmail](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:sandupa.isum@gmail.com)](mailto:sandupa.isum@gmail.com)
+	
 <br/>
 
  - 🔭 I’m currently working on something cool :bulb: 
