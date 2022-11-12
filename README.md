@@ -1,3 +1,4 @@
+<img src="https://ibb.co/S6cBtQ9" width="60"/>
 <h2 align="center"> Sandupa Abeywardana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 
 <p></p>
