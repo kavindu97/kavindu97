@@ -8,13 +8,21 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
 </p>
+<div align="center">
+<a href="https://twitter.com/abeywardanatm"><img src="https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/abeywardanatm"></a>
+<a href="http://instagram.com/sanx98"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/sanx98"></a>
+<a href="https://facebook.com/SandupaAbeywardana/"><img src="https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/SandupaAbeywardana/"></a>
+<a href=" https://linkedin.com/in/isumsandupa"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/isumsandupa"></a>
+<a href="mailto:sandupa.isum@gmail.com"><img src="https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:sandupa.isum@gmail.com"></a>
+</div>
 
-[![Twitter](https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/abeywardanatm)](https://twitter.com/abeywardanatm)
-[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/sanx98)](http://instagram.com/sanx98)
-[![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/SandupaAbeywardana/)](https://facebook.com/SandupaAbeywardana/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/isumsandupa)](https://linkedin.com/in/isumsandupa)
-[![Gmail](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:sandupa.isum@gmail.com)](mailto:sandupa.isum@gmail.com)
-	
+ ```
+  For Academic Purposes
+  
+  Student IT :IT21294334
+  Student Name : Abeywardana B A I S
+ ```
+
 <br/>
 
  - 🔭 I’m currently working on something cool :bulb: 
