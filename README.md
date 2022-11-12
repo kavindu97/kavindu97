@@ -1,21 +1,18 @@
-<p align="center"><img src="https://i.ibb.co/CtP0k94/ezgif-4-fa886ba1bf.gif" height="250"></p>
+<p align="center"><img src="https://i.ibb.co/CtP0k94/ezgif-4-fa886ba1bf.gif" height="180"></p>
 <h2 align="center"> Sandupa Abeywardana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 
 <p></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SandupaAbeywardana" alt="SandupaAbeywardana" /> </p>
 </h2>
-<p> 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
-</p>
 <h5 align="center">
   <code><a href="https://www.facebook.com/SandupaAbeywardana" title="Facebook Profile"><img width="22"                                                                             src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/facebook.png">Facebook</a></code>
   <code><a href="https://www.instagram.com/sanx__98/" title="Instagram Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.linkedin.com/in/isumsandupa/" title="LinkedIn Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://twitter.com/abeywardanatm" title="Twitter Profile"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/twitter.png"> Twitter</a></code>
   <code><a href="mailto:sandupa.isum@gmail.com; sandupa.isum@outlook.com" title="Send Email"><img width="22" src="https://github.com/AshenWijesingha/AshenWijesingha/blob/main/Images/gmail.png"> Gmail</a></code>
-
 </h5>
 <p/>
 <br/>
