@@ -32,8 +32,6 @@
  - 📫 How to reach me: [@SandupaAbeywardana](mailto:sandupa.isum@gmail.com)
  - :dart: Focused_On Inventions :fire: 
 
-
-
 <br/>
 
 ## <img src="https://img.icons8.com/color/48/undefined/trophy.png"/> My Github Trophies
@@ -57,7 +55,6 @@
 ## <img src="https://img.icons8.com/color/48/000000/programming-flag.png"/> My Github Stats
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 
