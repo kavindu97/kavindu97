@@ -20,7 +20,7 @@
  ```
   For Academic Purposes
   
-  Student IT :IT21294334
+  Student ID :IT21294334
   Student Name : Abeywardana B A I S
  ```
 
