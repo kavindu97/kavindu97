@@ -69,7 +69,9 @@
 
 <br/>
 
-<a href="https://github.com/SandupaAbeywardana/github-readme-activity-graph"><img alt="Sandupa Abeywardana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SandupaAbeywardana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Sandupa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SandupaAbeywardana&theme=react-dark)](https://github.com/SandupaAbeywardana/github-readme-activity-graph)
+
+[![Sandupa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SandupaAbeywardana&theme=github-compact)](https://github.com/SandupaAbeywardana/github-readme-activity-graph)
 
 <br/>
 
