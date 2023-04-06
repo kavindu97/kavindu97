@@ -3,7 +3,7 @@
 
 <p></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SandupaAbeywardana" alt="SandupaAbeywardana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindu97" alt="kavindu97" /> </p>
 </h2>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
@@ -17,12 +17,7 @@
 <br>
 </div>
 
- ```
-  For Academic Purposes
-  
-  Student ID :IT21294334
-  Student Name : Abeywardana B A I S
- ```
+
 
 <br/>
 
