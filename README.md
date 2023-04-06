@@ -36,7 +36,7 @@
 
 ## <img src="https://img.icons8.com/color/48/undefined/trophy.png"/> My Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SandupaAbeywardana&theme=juicyfresh&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kavindu97&theme=juicyfresh&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
