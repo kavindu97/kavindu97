@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.ibb.co/CtP0k94/ezgif-4-fa886ba1bf.gif" height="180"></p>
-<h2 align="center"> Sandupa Abeywardana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
+<h2 align="center"> kavindu97 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 
 <p></p>
 
@@ -12,7 +12,7 @@
 <a href="http://instagram.com/sanx98"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/sanx98"></a>
 <a href="https://facebook.com/SandupaAbeywardana/"><img src="https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/SandupaAbeywardana/"></a>
 <a href="https://linkedin.com/in/isumsandupa"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/isumsandupa"></a>
-<a href="mailto:sandupa.isum@gmail.com"><img src="https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:sandupa.isum@gmail.com"></a>
+<a href="mailto:sandupa.isum@gmail.com"><img src="https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:kavindusenarathana199729@gmail.com"></a>
 <br>
 <br>
 </div>
@@ -24,7 +24,7 @@
  - 🔭 I’m currently working on something cool :bulb: 
  - 🌱 learning New Techs & Recreating :construction:  
  - 👯 looking to collaborate on New Projects ☺
- - 📫 How to reach me: [@SandupaAbeywardana](mailto:sandupa.isum@gmail.com)
+ - 📫 How to reach me: [@KavinduPraneeth](mailto:kavindusenarathana199729@gmail.com)
  - :dart: Focused_On Inventions :fire: 
 
 <br/>
@@ -54,17 +54,17 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SandupaAbeywardana/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sandupa Abeywardana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SandupaAbeywardana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/kavindu97/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kavindu97's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu97&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
  </p>
  <p align="center">
-   <a href="https://github.com/SandupaAbeywardana/github-readme-stats"><img alt="Sandupa Abeywardana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SandupaAbeywardana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/SandupaAbeywardana/github-readme-stats"><img alt="Sandupa Abeywardana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandupaAbeywardana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/kavindu97/github-readme-stats"><img alt="kavindu97's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kavindu97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/SandupaAbeywardana/github-readme-stats"><img alt="kavindu97's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu97&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <br/>
 
-[![Sandupa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SandupaAbeywardana&theme=react-dark)](https://github.com/SandupaAbeywardana/github-readme-activity-graph)
+[![kavindu97a's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kavindu97&theme=react-dark)](https://github.com/kavindu97/github-readme-activity-graph)
 
 <br/>
 
